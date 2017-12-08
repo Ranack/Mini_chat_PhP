@@ -7,13 +7,12 @@ $_SESSION['pseudo_minichat'] = $_COOKIE['pseudo_minichat'];
 <html>
     <head>
         <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
         <title>Mini-chat PhP</title>
     </head>
      
     <style>
-        form{
-            text-align:center;
-        }
+   
     </style>
      
         
