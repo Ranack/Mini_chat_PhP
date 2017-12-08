@@ -10,12 +10,7 @@ $_SESSION['pseudo_minichat'] = $_COOKIE['pseudo_minichat'];
         <link rel="stylesheet" type="text/css" href="style.css">
         <title>Mini-chat PhP</title>
     </head>
-     
-    <style>
-   
-    </style>
-     
-        
+
     <body>
          
         <form action="minichat_post.php" method="post" >
